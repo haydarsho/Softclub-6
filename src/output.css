@@ -553,3 +553,350 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.mt-\[\] {
+  margin-top: ;
+}
+
+.mt-\[30px\] {
+  margin-top: 30px;
+}
+
+.mt-\[50px\] {
+  margin-top: 50px;
+}
+
+.ml-\[\] {
+  margin-left: ;
+}
+
+.ml-\[30px\] {
+  margin-left: 30px;
+}
+
+.mt-\[20px\] {
+  margin-top: 20px;
+}
+
+.ml-\[0px\] {
+  margin-left: 0px;
+}
+
+.ml-\[60px\] {
+  margin-left: 60px;
+}
+
+.ml-\[70px\] {
+  margin-left: 70px;
+}
+
+.mt-\[15px\] {
+  margin-top: 15px;
+}
+
+.mt-\[25px\] {
+  margin-top: 25px;
+}
+
+.ml-\[50px\] {
+  margin-left: 50px;
+}
+
+.flex {
+  display: flex;
+}
+
+.hidden {
+  display: none;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+.rounded-\[\] {
+  border-radius: ;
+}
+
+.rounded-\[5px\] {
+  border-radius: 5px;
+}
+
+.rounded-\[15px\] {
+  border-radius: 15px;
+}
+
+.rounded-\[30px\] {
+  border-radius: 30px;
+}
+
+.rounded-\[50px\] {
+  border-radius: 50px;
+}
+
+.rounded-\[20px\] {
+  border-radius: 20px;
+}
+
+.rounded-\[0px\] {
+  border-radius: 0px;
+}
+
+.rounded-\[10px\] {
+  border-radius: 10px;
+}
+
+.border-\[2px\] {
+  border-width: 2px;
+}
+
+.border-\[\] {
+  border-color: ;
+}
+
+.border-\[\#FFCCCC\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(255 204 204 / var(--tw-border-opacity, 1));
+}
+
+.border-\[\#B91122\] {
+  --tw-border-opacity: 1;
+  border-color: rgb(185 17 34 / var(--tw-border-opacity, 1));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\#FFCCCC\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 204 204 / var(--tw-bg-opacity, 1));
+}
+
+.bg-\[\#B91122\] {
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 17 34 / var(--tw-bg-opacity, 1));
+}
+
+.p-\[30px\] {
+  padding: 30px;
+}
+
+.p-\[\] {
+  padding: ;
+}
+
+.p-\[20px\] {
+  padding: 20px;
+}
+
+.p-\[5px\] {
+  padding: 5px;
+}
+
+.p-\[0px\] {
+  padding: 0px;
+}
+
+.px-\[\] {
+  padding-left: ;
+  padding-right: ;
+}
+
+.px-\[20px\] {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.px-\[70px\] {
+  padding-left: 70px;
+  padding-right: 70px;
+}
+
+.pl-\[\] {
+  padding-left: ;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-\[20px\] {
+  font-size: 20px;
+}
+
+.text-\[30px\] {
+  font-size: 30px;
+}
+
+.text-\[15px\] {
+  font-size: 15px;
+}
+
+.text-\[5px\] {
+  font-size: 5px;
+}
+
+.text-\[35px\] {
+  font-size: 35px;
+}
+
+.font-bold {
+  font-weight: 700;
+}
+
+.text-\[\] {
+  color: ;
+}
+
+.text-\[grey\] {
+  --tw-text-opacity: 1;
+  color: rgb(128 128 128 / var(--tw-text-opacity, 1));
+}
+
+.text-\[white\] {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+@media (min-width: 1024px) {
+  .lg\:ml-\[0px\] {
+    margin-left: 0px;
+  }
+
+  .lg\:ml-\[\] {
+    margin-left: ;
+  }
+
+  .lg\:ml-\[10px\] {
+    margin-left: 10px;
+  }
+
+  .lg\:ml-\[50px\] {
+    margin-left: 50px;
+  }
+
+  .lg\:mt-\[0px\] {
+    margin-top: 0px;
+  }
+
+  .lg\:ml-\[80px\] {
+    margin-left: 80px;
+  }
+
+  .lg\:ml-\[100px\] {
+    margin-left: 100px;
+  }
+
+  .lg\:ml-\[300px\] {
+    margin-left: 300px;
+  }
+
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:flex {
+    display: flex;
+  }
+
+  .lg\:w-\[\] {
+    width: ;
+  }
+
+  .lg\:w-\[400px\] {
+    width: 400px;
+  }
+
+  .lg\:w-\[300p\] {
+    width: 300p;
+  }
+
+  .lg\:w-\[300px\] {
+    width: 300px;
+  }
+
+  .lg\:w-\[350px\] {
+    width: 350px;
+  }
+
+  .lg\:rounded-\[50px\] {
+    border-radius: 50px;
+  }
+
+  .lg\:rounded-\[20px\] {
+    border-radius: 20px;
+  }
+
+  .lg\:rounded-\[0px\] {
+    border-radius: 0px;
+  }
+
+  .lg\:rounded-\[10px\] {
+    border-radius: 10px;
+  }
+
+  .lg\:p-\[30px\] {
+    padding: 30px;
+  }
+
+  .lg\:p-\[\] {
+    padding: ;
+  }
+
+  .lg\:p-\[15px\] {
+    padding: 15px;
+  }
+
+  .lg\:p-\[20px\] {
+    padding: 20px;
+  }
+
+  .lg\:p-\[5px\] {
+    padding: 5px;
+  }
+
+  .lg\:p-\[40px\] {
+    padding: 40px;
+  }
+
+  .lg\:px-\[20px\] {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .lg\:px-\[\] {
+    padding-left: ;
+    padding-right: ;
+  }
+
+  .lg\:px-\[0\] {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .lg\:px-\[0px\] {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+
+  .lg\:text-start {
+    text-align: start;
+  }
+
+  .lg\:text-\[70px\] {
+    font-size: 70px;
+  }
+
+  .lg\:text-\[25px\] {
+    font-size: 25px;
+  }
+
+  .lg\:text-\[20px\] {
+    font-size: 20px;
+  }
+
+  .lg\:text-\[\] {
+    color: ;
+  }
+}
