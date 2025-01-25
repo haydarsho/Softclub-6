@@ -1,0 +1,14 @@
+<svg width="152" height="36" viewBox="0 0 152 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M11.5 33C16.7467 33 21 28.7467 21 23.5C21 18.2533 16.7467 14 11.5 14C6.25329 14 2 18.2533 2 23.5C2 28.7467 6.25329 33 11.5 33Z" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M22 34L20 32" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M72.81 14L69.19 17.63" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M79.19 14L82.81 17.63" stroke="#292D32" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M66 19.85C66 18 66.99 17.85 68.22 17.85H83.78C85.01 17.85 86 18 86 19.85C86 22 85.01 21.85 83.78 21.85H68.22C66.99 21.85 66 22 66 19.85Z" stroke="#292D32" stroke-width="1.5"/>
+<path d="M73.76 26V29.55" stroke="#292D32" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M78.36 26V29.55" stroke="#292D32" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M67.5 22L68.91 30.64C69.23 32.58 70 34 72.86 34H78.89C82 34 82.46 32.64 82.82 30.76L84.5 22" stroke="#292D32" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M140 24C142.761 24 145 21.7614 145 19C145 16.2386 142.761 14 140 14C137.239 14 135 16.2386 135 19C135 21.7614 137.239 24 140 24Z" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M148.59 34C148.59 30.13 144.74 27 140 27C135.26 27 131.41 30.13 131.41 34" stroke="#292D32" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="85" width="16.7273" height="16" rx="8" fill="#EB5B5B"/>
+<path d="M91.4371 10.1473C91.9956 9.66436 92.4349 9.26873 92.7549 8.96036C93.0807 8.64618 93.3513 8.32036 93.5666 7.98291C93.7818 7.64545 93.8895 7.308 93.8895 6.97055C93.8895 6.62145 93.8051 6.348 93.6364 6.15018C93.4735 5.95236 93.2146 5.85345 92.8596 5.85345C92.5164 5.85345 92.2487 5.964 92.0567 6.18509C91.8706 6.40036 91.7716 6.69127 91.76 7.05782H90.8C90.8175 6.39455 91.0153 5.88836 91.3935 5.53927C91.7775 5.18436 92.2633 5.00691 92.8509 5.00691C93.4851 5.00691 93.9796 5.18145 94.3346 5.53055C94.6953 5.87964 94.8756 6.34509 94.8756 6.92691C94.8756 7.34582 94.768 7.75018 94.5527 8.14C94.3433 8.524 94.0902 8.87018 93.7935 9.17855C93.5026 9.48109 93.1302 9.83309 92.6764 10.2345L92.2836 10.5836H95.0502V11.4127H90.8087V10.6884L91.4371 10.1473Z" fill="white"/>
+</svg>
